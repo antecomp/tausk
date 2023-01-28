@@ -9,6 +9,7 @@ function App() {
     <div className="container">
       <TabBar passingState={"given its value by App"} />
       <h1>test</h1>
+      <h1>hi omner</h1>
     </div>
   );
 }
