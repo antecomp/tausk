@@ -4,7 +4,7 @@ import { invoke } from "@tauri-apps/api/tauri";
 import "../stylesheets/tabBar.css";
 import "../App.css"
 
-const TabBar = (props) => {
+const TestComp = (props) => {
 	const[someState] = useState(props.passingState);
 
 	return(
@@ -15,4 +15,4 @@ const TabBar = (props) => {
 	)
 }
 
-export default TabBar;
+export default TestComp;
