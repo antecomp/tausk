@@ -1,0 +1,7 @@
+.outer-tab[aria-selected="true"] {
+	background-color: blue;
+}
+
+.h2 {
+	color: aqua;
+}
